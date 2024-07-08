@@ -1,0 +1,1 @@
+powershell.exe -NoProfile -ExecutionPolicy Unrestricted "./test.ps1" -Verb RunAs
